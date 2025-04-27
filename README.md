@@ -2,5 +2,5 @@
 habit tracker and pomodoro for chrome - by Abhishek Jha
 
 # how to run: 
-1. download habitomo.crx
+1. download habitomo.crx link: https://github.com/speedily/habitomo/blob/main/habitomo.crx
 2. open in chrome/opera
